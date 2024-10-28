@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithinsai-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rithinsai-dev" /> </p>
 
-- 🔭 I’m currently working on **Car rental website with allows user to have easy and flexible access to book rental cars**
+- 🔭 I’m currently working on **imposter game which allows user to all around the world play this game by joining in the same room**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Restaurant websites**
+- 👯 I’m looking to collaborate on **imposter game**
 
 - 🤝 I’m looking for help with **Back end**
 

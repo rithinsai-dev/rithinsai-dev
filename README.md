@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithinsai-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rithinsai-dev" /> </p>
 
-- 🔭 I’m currently working on **imposter game which allows user to all around the world play this game by joining in the same room**
+- 🔭 I’m currently working on **game which allows user to all around the world play this game by joining in the same room**
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **imposter game**
+- 👯 I’m looking to collaborate on **Multi Player game**
 
-- 🤝 I’m looking for help with **Back end**
+- 🤝 I’m looking for help with **Backend**
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **Rithinsai.pamerla@gmail.com**
 
